@@ -1,0 +1,95 @@
+{
+    "21STCENMGM":
+     {
+        "2023": {
+            "BSE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=83eb843d-50c7-4c95-9164-4eb42bd7b621.pdf"
+        },
+        "2022": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/73340526921.pdf"
+        },
+        "2021": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/68589526921.pdf"
+        },
+        "2020": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/65353526921.pdf"
+        },
+        "2019": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210319.pdf"
+        },
+        "2018": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210318.pdf"
+        },
+        "2017": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210317.pdf"
+        },
+        "2016": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210316.pdf"
+        },
+        "2015": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210315.pdf"
+        },
+        "2014": {
+            "BSE": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR_NA_BSE/2014/5269210314.PDF"
+        },
+        "2013": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210313.pdf"
+        },
+        "2012": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210312.pdf"
+        },
+        "2011": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210311.pdf"
+        },
+        "2010": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/526921/5269210310.pdf"
+        },
+        "2009": {
+            "BSE": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR_NA_BSE/2009/5269210309.PDF"
+        }
+    },
+    "20MICRONS": {
+        "2023": {
+            "BSE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f246affb-292e-401f-adf3-13e1c68efae9.pdf"
+        },
+        "2022": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/73304533022.pdf"
+        },
+        "2021": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/70716533022.pdf"
+        },
+        "2020": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/65490533022.pdf"
+        },
+        "2019": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220319.pdf"
+        },
+        "2018": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220318.pdf"
+        },
+        "2017": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220317.pdf"
+        },
+        "2016": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220316.pdf"
+        },
+        "2015": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220315.pdf"
+        },
+        "2014": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220314.pdf"
+        },
+        "2013": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220313.pdf"
+        },
+        "2012": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220312.pdf"
+        },
+        "2011": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220311.pdf",
+            "NSE": "https://archives.nseindia.com/annual_reports/AR_20MICRONS_2010_2011_11102011102255.zip"
+        },
+        "2010": {
+            "BSE": "https://www.bseindia.com/bseplus/AnnualReport/533022/5330220310.pdf"
+        }
+    }
+}
