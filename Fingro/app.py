@@ -64,4 +64,4 @@ for company, reports in data.items():
 
                 print(f"Downloaded {renamed_file} for {company} ({year})")
 
-print("All files downloaded and renamed successfully.")
+print("All files")
